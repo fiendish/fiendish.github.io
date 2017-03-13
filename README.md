@@ -1,4 +1,6 @@
-# ![profile photo](https://github.com/fiendish.png) This is Fiendish's GitHub User Page
+# This is Fiendish's GitHub User Page
+
+# This is Fiendish ![profile photo](https://github.com/fiendish.png)
 
 Looking for The Aardwolf MUSHclient Package? https://fiendish.github.io/aardwolfclientpackage/
 
